@@ -1,10 +1,10 @@
 /* ===== Configuration générale : tout ce qui change souvent est ici ===== */
 const CONFIG = {
-  nom: "Nouvelle Vis",
-  logo: "NouvelleVis",   // graphie du logo (sans espace)
+  nom: "Seconde Vis",
+  logo: "SecondeVis",   // graphie du logo (sans espace)
   devise: "$",
   courriel: "bonjour@exemple.com",
-  adresse: "Entrepôt Nouvelle Vis, 1250 rue de l'Industrie",
+  adresse: "Entrepôt Seconde Vis, 1250 rue de l'Industrie",
   horaires: "Du lundi au samedi, de 8 h à 18 h",
   dernierArrivage: "2026-11-16T08:30",   // dernier renouvellement du stock
   prochainArrivage: "2026-11-19T08:00"   // prochain arrivage prévu
